@@ -1,6 +1,7 @@
 import sys
 
 
+# Please bear in mind that this function still needs improvement. I'll go back to it in the future
 # Try to use list comprehensions and expression comprehensions here!
 
 

@@ -5,6 +5,7 @@ import sys
 # Try to use list comprehensions and expression comprehensions here!
 
 
+# Insert documentation and types!
 def fizzbuzz():
     # global b
     _ = input("Let's play Fizz Buzz! Press any key to continue...")

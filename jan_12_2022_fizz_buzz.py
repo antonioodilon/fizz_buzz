@@ -1,9 +1,7 @@
 import sys
-
-
-# Please bear in mind that this function still needs improvement. I'll go back to it in the future
+# Please bear in mind that this function still needs improvement. I intend to go back to it in the future
 # TODO: Try to use list comprehensions and expression comprehensions here!
-# TODO:Insert documentation and types!
+# TODO: Insert documentation and types!
 
 
 def fizzbuzz():

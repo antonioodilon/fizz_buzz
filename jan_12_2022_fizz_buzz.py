@@ -2,12 +2,11 @@ import sys
 
 
 # Please bear in mind that this function still needs improvement. I'll go back to it in the future
-# Try to use list comprehensions and expression comprehensions here!
+# TODO: Try to use list comprehensions and expression comprehensions here!
+# TODO:Insert documentation and types!
 
 
-# Insert documentation and types!
 def fizzbuzz():
-    # global b
     _ = input("Let's play Fizz Buzz! Press any key to continue...")
     a = 0
     b = 0
@@ -32,22 +31,6 @@ def fizzbuzz():
         else:
             input("Ok, let's continue")
             break
-            # pass
-    # try:
-    #     a = int(input("First type in the first number in our range: "))
-    # except:
-    #     print("I am sorry, this is an invalid number. Please type in a "
-    #             "valid one")
-    #     sys.exit()
-    # try:
-    #     b = int(input("Now type in the last number in our range: "))
-    #     if b < a:
-    #         print("The last number cannot be smaller than the first one.")
-    #         sys.exit()
-    # except:
-    #     print("I am sorry, this is an invalid number. Please type in a "
-    #             "valid one")
-    #     sys.exit()
 
     _ = input("Ok, the game is about to start! Ready?")
     for number in range(a, b + 1):

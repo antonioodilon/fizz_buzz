@@ -1,3 +1,5 @@
+# Author: Antonio de Odilon Brito
+
 import sys
 # Please bear in mind that this function still needs improvement. I intend to go back to it in the future
 # TODO: Try to use list comprehensions and expression comprehensions here!
